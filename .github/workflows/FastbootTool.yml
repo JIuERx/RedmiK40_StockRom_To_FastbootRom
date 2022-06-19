@@ -39,7 +39,7 @@ jobs:
       run: |
        cd ~
        git clone https://github.com/vm03/payload_dumper.git
-       git clone https://github.com/yyzq2/RedmiK40FastbootFlashTool.git
+       git clone https://github.com/JIuERx/RedmiK40FastbootFlashTool.git
   
     - name: 下载ROM
       run: |
